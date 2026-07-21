@@ -26,4 +26,8 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
