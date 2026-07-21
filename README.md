@@ -17,6 +17,7 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -30,4 +31,12 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0092-reverse-linked-list-ii) |
+## Array
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
