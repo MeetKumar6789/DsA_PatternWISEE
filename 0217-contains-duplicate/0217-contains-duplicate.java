@@ -2,10 +2,11 @@
     public boolean containsDuplicate(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+        for (int i=0;i<nums.length;i++) {
+            int m = nums[i];
+            map.put(m, map.getOrDefault(m, 0) + 1);
 
-            if (map.get(num) > 1) {
+            if (map.get(m) > 1) {
                 return true;
             }
         }
