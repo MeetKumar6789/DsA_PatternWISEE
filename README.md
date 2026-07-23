@@ -33,6 +33,7 @@ after a long time finally i have dared to touch the github again and it was too 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0092-reverse-linked-list-ii) |
 ## Array
 |  |
@@ -45,4 +46,8 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0217-contains-duplicate](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
