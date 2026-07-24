@@ -7,6 +7,7 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ after a long time finally i have dared to touch the github again and it was too 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
@@ -50,4 +52,8 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
