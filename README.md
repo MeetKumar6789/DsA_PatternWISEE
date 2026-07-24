@@ -41,6 +41,7 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -58,4 +59,8 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
