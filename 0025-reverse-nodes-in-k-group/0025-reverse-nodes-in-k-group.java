@@ -1,67 +1,63 @@
-class Solution {
+ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head == null)
-        {
+        ListNode prev = null;
+        if (head == null) {
             return null;
         }
         ListNode left = head;
-        ListNode right = null;
-        ListNode prev_left = null;
+        ListNode right = left;
+        ListNode prevLeft = null;
+        ListNode nextLeft = null;
         ListNode res = null;
         int size = k;
-
-        while(true){
-            right = left;
-            for(int i=0;i<k-1;i++)
-            {
-                if(right == null)
-                {
+        while (left != null) {
+            right=left;//resetting right every time
+            for (int i = 0; i < size - 1; i++) {// traversing to right according to question.
+                if (right == null) {
                     break;
-                }
-                else
-                {
+                } else {
                     right = right.next;
                 }
             }
+            if (right != null) {
 
-            if(right != null)
-            {
-                ListNode next_left = right.next; //storing the value fo the right.next first
-
-                if(prev_left != null)
-                {
-                    prev_left.next = right; // l1.next = right2, same as before
+                nextLeft = right.next;
+                reverse(left, size);
+                if (prevLeft != null) {
+                    prevLeft.next = right;
                 }
-                if(res == null)
-                {
+                if (res == null) {
                     res = right;
                 }
-
-                prev_left = left; // save this group's start — it becomes the tail after reversing
-
-                // reverse this group by walking left -> next_left,
-                right = next_left;
-                while(left != next_left)
-                {
-                    ListNode temp = left.next;
-                    left.next = right;
-                    right = left;
-                    left = temp;
-                } 
+                prevLeft = left;//we need this to connect it to next pair 
+                left = nextLeft;//allowing left to proceed further 
             }
-            else  
-            {
-                if(prev_left == null)
-                {
-                    prev_left = left; //  1st node case
+
+            else {
+                if (prevLeft != null) {
+                    prevLeft.next = left;
                 }
-                if(res == null)
-                {
-                    res = left;
-                }
+                 if (res == null) {
+                        res = left;
+                    }   
                 break;
             }
+
         }
         return res;
+
+    }
+
+    public void reverse(ListNode head, int size) {
+        ListNode prev = null;
+        ListNode current = head;
+        int times = size;
+        while (times > 0 && current != null) {
+            ListNode nex = current.next;
+            current.next = prev;
+            prev = current;
+            current = nex;
+            times--;
+        }
     }
 }
