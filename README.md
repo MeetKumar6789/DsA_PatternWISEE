@@ -6,6 +6,7 @@ after a long time finally i have dared to touch the github again and it was too 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -39,6 +40,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0092-reverse-linked-list-ii) |
 ## Array
 |  |
