@@ -1,33 +1,38 @@
  class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = findBound(nums, target, true);
-        if (first == -1) {
-            return new int[]{-1, -1};
-        }
-        int last = findBound(nums, target, false);
-        return new int[]{first, last};
-    }
+        int low = 0, high = nums.length - 1, first = -1, last = -1;
 
-    private int findBound(int[] nums, int target, boolean isFirst) {
-        int lo = 0, hi = nums.length - 1;
-        int result = -1;
-
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;  // avoids overflow vs (lo+hi)/2
-
-            if (nums[mid] == target) {
-                result = mid;
-                if (isFirst) {
-                    hi = mid - 1;  // keep searching left
-                } else {
-                    lo = mid + 1;  // keep searching right
-                }
-            } else if (nums[mid] < target) {
-                lo = mid + 1;
+        // pehla pass -> first occurrence dhundo
+        low = 0; high = nums.length - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (nums[mid] < target) {
+                low = mid + 1;
+            } else if (nums[mid] > target) {
+                high = mid - 1;
             } else {
-                hi = mid - 1;
+                first = mid; // yad rakho babua
+                high = mid - 1; // left taraf aana pdega first occurance k liye
             }
         }
-        return result;
+
+        // agar mila hi nahi to seedha -1,-1 bhej do
+        if (first == -1) return new int[]{-1, -1};
+
+        // dusra pass -> last occurrence dhundo
+        low = 0; high = nums.length - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (nums[mid] < target) {
+                low = mid + 1;
+            } else if (nums[mid] > target) {
+                high = mid - 1;
+            } else {
+                last = mid; // yad rakho babua, ab dusri baar
+                low = mid + 1; // right taraf aana pdega last occurance k liye
+            }
+        }
+
+        return new int[]{first, last};
     }
 }
