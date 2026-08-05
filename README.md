@@ -60,6 +60,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0217-contains-duplicate](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +85,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
