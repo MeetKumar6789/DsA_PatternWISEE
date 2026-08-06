@@ -51,6 +51,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0001-two-sum](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +90,7 @@ after a long time finally i have dared to touch the github again and it was too 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -98,4 +100,8 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0013-roman-to-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
