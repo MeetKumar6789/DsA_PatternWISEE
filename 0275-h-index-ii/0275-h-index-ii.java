@@ -18,6 +18,6 @@ class Solution {
                 low = guess + 1;
             }
         }
-        return n - res;
+        return n - res; // convert index -> actual h-index count
         }
 }
