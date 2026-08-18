@@ -60,6 +60,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0275-h-index-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0275-h-index-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
@@ -108,4 +109,12 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
