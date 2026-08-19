@@ -59,6 +59,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0275-h-index-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -103,6 +105,7 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -128,4 +131,8 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
