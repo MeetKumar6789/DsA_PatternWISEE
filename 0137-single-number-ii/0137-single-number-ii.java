@@ -6,7 +6,6 @@ class Solution {
             int n = nums[i];
             map.put(n , map.getOrDefault(n,0)+1);
         }
-         boolean first  = true;
          int ans = 0;
         for(Map.Entry<Integer , Integer>entry : map.entrySet())
         {
