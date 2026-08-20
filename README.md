@@ -29,6 +29,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1207-unique-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0875-koko-eating-bananas) |
+| [1207-unique-number-of-occurrences](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1207-unique-number-of-occurrences) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
