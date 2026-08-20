@@ -64,6 +64,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0169-majority-element](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -112,6 +113,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | ------- |
 | [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
