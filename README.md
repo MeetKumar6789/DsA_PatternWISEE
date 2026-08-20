@@ -113,6 +113,7 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0013-roman-to-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0172-factorial-trailing-zeroes) |
 ## Backtracking
 |  |
 | ------- |
