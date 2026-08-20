@@ -59,6 +59,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0042-trapping-rain-water](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0169-majority-element) |
@@ -113,6 +114,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | ------- |
 | [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 ## Divide and Conquer
