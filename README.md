@@ -18,6 +18,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0125-valid-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1207-unique-number-of-occurrences) |
 ## Counting
@@ -38,6 +40,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | ------- |
 | [0169-majority-element](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -74,6 +77,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -92,6 +96,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Recursion
 |  |
@@ -168,6 +173,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0215-kth-largest-element-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -177,4 +183,9 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
