@@ -87,6 +87,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1207-unique-number-of-occurrences) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2239-find-closest-number-to-zero](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2239-find-closest-number-to-zero) |
 ## Sorting
@@ -149,6 +150,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0172-factorial-trailing-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3516-find-closest-person](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3516-find-closest-person) |
 ## Backtracking
 |  |
