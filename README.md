@@ -149,6 +149,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0172-factorial-trailing-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
+| [3516-find-closest-person](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3516-find-closest-person) |
 ## Backtracking
 |  |
 | ------- |
