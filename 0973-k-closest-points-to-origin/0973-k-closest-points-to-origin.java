@@ -8,7 +8,7 @@ class Solution {
         );
         for(int[]p:points)
         {
-            pq.offer(p);
+            pq.add(p);
             if(pq.size()>k)
             {
                 pq.poll();
