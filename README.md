@@ -90,6 +90,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0875-koko-eating-bananas](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1207-unique-number-of-occurrences) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -109,6 +110,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Recursion
 |  |
@@ -130,6 +132,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
@@ -183,6 +186,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,6 +196,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
