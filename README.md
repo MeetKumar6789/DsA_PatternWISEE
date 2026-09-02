@@ -12,6 +12,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0061-rotate-list](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
@@ -107,6 +109,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
@@ -129,6 +132,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0875-koko-eating-bananas) |
@@ -193,6 +197,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0215-kth-largest-element-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
@@ -220,4 +225,8 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
