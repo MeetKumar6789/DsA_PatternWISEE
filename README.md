@@ -19,6 +19,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0013-roman-to-integer](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
@@ -33,6 +34,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0242-valid-anagram](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
@@ -108,6 +110,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
@@ -147,6 +150,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0137-single-number-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
