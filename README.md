@@ -236,5 +236,6 @@ after a long time finally i have dared to touch the github again and it was too 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
