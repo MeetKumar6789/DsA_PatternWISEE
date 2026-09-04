@@ -233,4 +233,8 @@ after a long time finally i have dared to touch the github again and it was too 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
