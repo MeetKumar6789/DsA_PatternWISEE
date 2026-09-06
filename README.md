@@ -241,6 +241,7 @@ after a long time finally i have dared to touch the github again and it was too 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1148-article-views-i) |
