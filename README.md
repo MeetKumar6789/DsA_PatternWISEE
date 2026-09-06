@@ -244,6 +244,7 @@ after a long time finally i have dared to touch the github again and it was too 
 | [0182-duplicate-emails](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1757-recyclable-and-low-fat-products) |
