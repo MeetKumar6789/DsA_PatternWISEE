@@ -77,6 +77,7 @@ all the txt files are the Questions from the GFG:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -193,6 +194,7 @@ all the txt files are the Questions from the GFG:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
