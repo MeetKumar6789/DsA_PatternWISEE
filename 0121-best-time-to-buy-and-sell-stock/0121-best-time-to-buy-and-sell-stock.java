@@ -14,11 +14,7 @@ class Solution {
             else if(prices[i] - min > maxProfit)
             {
                 maxProfit = prices[i] - min;
-                //explaination of the test case 1
-                //at i = 0 -> 7 - 7 !>0 so i++ & 
-                //i = 1 , we get our minamount to take the share or best price to buy share 
-                //at the idx 2 we get our fist maxProfit : 4
-                //at idx 4 we get our Final maxProfit : 5
+                 
             }
         }  
         return maxProfit;
