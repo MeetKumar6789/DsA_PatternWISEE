@@ -104,6 +104,7 @@ all the txt files are the Questions from the GFG:
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2239-find-closest-number-to-zero](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2239-find-closest-number-to-zero) |
 ## Sorting
