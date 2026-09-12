@@ -108,6 +108,7 @@ all the txt files are the Questions from the GFG:
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2239-find-closest-number-to-zero](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2239-find-closest-number-to-zero) |
+| [3024-type-of-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ all the txt files are the Questions from the GFG:
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
+| [3024-type-of-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3024-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -178,6 +180,7 @@ all the txt files are the Questions from the GFG:
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3024-type-of-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3024-type-of-triangle) |
 | [3516-find-closest-person](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3516-find-closest-person) |
 ## Backtracking
 |  |
@@ -257,4 +260,8 @@ all the txt files are the Questions from the GFG:
 | [1148-article-views-i](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1757-recyclable-and-low-fat-products) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
