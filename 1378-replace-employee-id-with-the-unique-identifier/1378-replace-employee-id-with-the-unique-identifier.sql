@@ -1,4 +1,4 @@
- SELECT 
+SELECT 
     eu.unique_id,
     e.name
 FROM Employees e
