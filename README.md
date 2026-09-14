@@ -41,6 +41,7 @@ all the txt files are the Questions from the GFG:
 | [0389-find-the-difference](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1189-maximum-number-of-balloons) |
@@ -50,6 +51,7 @@ all the txt files are the Questions from the GFG:
 | ------- |
 | [0169-majority-element](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1189-maximum-number-of-balloons) |
@@ -58,6 +60,7 @@ all the txt files are the Questions from the GFG:
 | ------- |
 | [0409-longest-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
@@ -94,6 +97,7 @@ all the txt files are the Questions from the GFG:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
@@ -123,6 +127,7 @@ all the txt files are the Questions from the GFG:
 | [0389-find-the-difference](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
@@ -218,6 +223,7 @@ all the txt files are the Questions from the GFG:
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0767-reorganize-string) |
