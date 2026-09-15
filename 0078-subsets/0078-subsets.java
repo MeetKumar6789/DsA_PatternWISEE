@@ -1,18 +1,24 @@
-class Solution {
+ class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        backtrack(0, nums, new ArrayList<>(), result);
-        return result;
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> temp = new ArrayList<>();
+        backTrack(0, nums, temp, res);
+        return res;
     }
-
-    private void backtrack(int idx, int[] nums, List<Integer> curr, List<List<Integer>> result) {
+    
+    public void backTrack(int idx, int[] nums, List<Integer> temp, List<List<Integer>> res) {
+        // Base case: when we reach the end of the array, add the current subset copy
         if (idx == nums.length) {
-            result.add(new ArrayList<>(curr)); // copy — critical, see below
+            res.add(new ArrayList<>(temp)); // Add a copy of temp
             return;
         }
-        backtrack(idx + 1, nums, curr, result);           // exclude nums[idx]
-        curr.add(nums[idx]);
-        backtrack(idx + 1, nums, curr, result);            // include nums[idx]
-        curr.remove(curr.size() - 1);                       // backtrack
+        
+        // Case 1: Not include nums[idx]
+        backTrack(idx + 1, nums, temp, res);
+        
+        // Case 2: Include nums[idx]
+        temp.add(nums[idx]);
+        backTrack(idx + 1, nums, temp, res);
+        temp.remove(temp.size() - 1); // Backtrack
     }
 }
