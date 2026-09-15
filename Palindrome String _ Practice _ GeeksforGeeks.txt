@@ -1,0 +1,90 @@
+﻿
+
+
+Top of Form
+
+Bottom of Form
+* Courses
+Sale
+* Tutorials
+* Practice
+* Jobs
+Switch to Light Mode
+M
+Menu
+Back to Explore Page
+
+Ask A DoubtMy Doubts
+
+Top of Form
+FREQUENTLY ASKED QUESTIONS Give me a hintDry Run the Example with approachIdentify the Boundary cases to consider
+
+
+Bottom of Form
+ProblemEditorialSubmissionsComments
+Palindrome String
+Solved
+Difficulty: BasicAccuracy: 51.21%Submissions: 524K+Points: 1
+Given a string s, find if it is a palindrome. A string is considered a palindrome if it reads the same forwards and backwards.
+Examples :
+Input: s = "abba"
+Output: true
+Explanation: "abba" reads the same forwards and backwards, so it is a palindrome.
+Input: s = "abc" 
+Output: false
+Explanation: "abc" does not read the same forwards and backwards, so it is not a palindrome.
+Constraints:
+1 ≤ s.size() ≤ 106
+s contains: [a-z].
+Try more examples
+Expected Complexities
+Time Complexity: O(n)
+Auxiliary Space: O(1)
+Company Tags
+PaytmZohoMorgan StanleyAmazonD-E-ShawFactSetCiscoFacebook
+Topic Tags
+Stringstwo-pointer-algorithm
+Related Interview Experiences
+Paytm Interview Experience Set 14 For Senior Android Developer
+ 
+class Solution {
+    public boolean isPalindrome(String s) {
+        if (s == null) {
+            return false;
+        }
+        // Kick off the recursion starting from the outer edges
+        return checkPalindrome(s, 0, s.length() - 1);
+    }
+    // Helper method to perform the recursive checks
+    private boolean checkPalindrome(String s, int low, int high) {
+        // Base case: Pointers met or crossed, meaning all characters matched
+        if (low >= high) {
+            return true;
+        }
+        // If characters mismatch, it is not a palindrome
+        if (s.charAt(low) != s.charAt(high)) {
+            return false;
+        }
+        // Recursive case: Move pointers inward and check the rest
+        return checkPalindrome(s, low + 1, high - 1);
+    }
+}
+ 
+ 
+Output Window
+Compilation ResultsCustom InputY.O.G.I. (AI Bot)
+Problem Solved Successfully
+Suggest Feedback
+Test Cases Passed1111 / 1111
+Attempts : Correct / Total1 / 2
+Accuracy : 50%
+Points Scored 2 / 2
+Your Total Score:39 
+Time Taken0.08
+
+Custom InputCompile & RunSubmit
+Report An IssueIf you are facing any issue on this page. Please let us know.
+
+
+
+
