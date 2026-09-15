@@ -141,6 +141,7 @@ all the txt files are the Questions from the GFG:
 | [0024-swap-nodes-in-pairs](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ all the txt files are the Questions from the GFG:
 | [0013-roman-to-integer](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3024-type-of-triangle) |
@@ -206,6 +208,7 @@ all the txt files are the Questions from the GFG:
 | [0042-trapping-rain-water](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -272,4 +275,8 @@ all the txt files are the Questions from the GFG:
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3024-type-of-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
