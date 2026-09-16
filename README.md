@@ -16,6 +16,7 @@ all the txt files are the Questions from the GFG:
 | [0061-rotate-list](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
@@ -94,6 +95,7 @@ all the txt files are the Questions from the GFG:
 | [0260-single-number-iii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
