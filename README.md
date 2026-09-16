@@ -188,6 +188,7 @@ all the txt files are the Questions from the GFG:
 | [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3024-type-of-triangle) |
 | [3516-find-closest-person](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/3516-find-closest-person) |
 ## Backtracking
