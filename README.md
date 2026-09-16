@@ -183,6 +183,7 @@ all the txt files are the Questions from the GFG:
 | [0009-palindrome-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
@@ -201,6 +202,7 @@ all the txt files are the Questions from the GFG:
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
@@ -279,4 +281,8 @@ all the txt files are the Questions from the GFG:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
