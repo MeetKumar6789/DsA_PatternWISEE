@@ -111,6 +111,7 @@ all the txt files are the Questions from the GFG:
 | [1207-unique-number-of-occurrences](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1207-unique-number-of-occurrences) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/2226-maximum-candies-allocated-to-k-children) |
