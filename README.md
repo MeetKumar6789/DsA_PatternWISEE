@@ -156,6 +156,7 @@ all the txt files are the Questions from the GFG:
 | [0240-search-a-2d-matrix-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0275-h-index-ii) |
+| [0367-valid-perfect-square](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
@@ -190,6 +191,7 @@ all the txt files are the Questions from the GFG:
 | [0172-factorial-trailing-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0973-k-closest-points-to-origin) |
