@@ -85,6 +85,7 @@ all the txt files are the Questions from the GFG:
 | [0039-combination-sum](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@ all the txt files are the Questions from the GFG:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0217-contains-duplicate) |
@@ -212,6 +214,7 @@ all the txt files are the Questions from the GFG:
 | [0022-generate-parentheses](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0078-subsets) |
 ## Stack
 |  |
