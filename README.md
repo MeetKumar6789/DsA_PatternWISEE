@@ -197,6 +197,7 @@ all the txt files are the Questions from the GFG:
 | [0066-plus-one](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0492-construct-the-rectangle) |
