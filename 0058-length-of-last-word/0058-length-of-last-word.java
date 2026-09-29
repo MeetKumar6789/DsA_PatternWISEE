@@ -8,6 +8,7 @@
             i--;
         }
         
+        //now count++ and then iterate the pointer throughout the word 
         while (i >= 0 && s.charAt(i) != ' ') {
             count++;
             i--;
