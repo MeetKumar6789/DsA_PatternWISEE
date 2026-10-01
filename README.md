@@ -108,6 +108,7 @@ all the txt files are the Questions from the GFG:
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0704-binary-search) |
@@ -288,6 +289,7 @@ all the txt files are the Questions from the GFG:
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
