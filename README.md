@@ -225,6 +225,7 @@ all the txt files are the Questions from the GFG:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -322,4 +323,16 @@ all the txt files are the Questions from the GFG:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
