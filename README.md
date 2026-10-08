@@ -73,6 +73,7 @@ all the txt files are the Questions from the GFG:
 | [0024-swap-nodes-in-pairs](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0203-remove-linked-list-elements) |
 ## Array
