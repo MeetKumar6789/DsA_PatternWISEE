@@ -106,6 +106,7 @@ all the txt files are the Questions from the GFG:
 | [0283-move-zeroes](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
@@ -139,6 +140,7 @@ all the txt files are the Questions from the GFG:
 | [0347-top-k-frequent-elements](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/MeetKumar6789/DsA_PatternWISEE/tree/master/0621-task-scheduler) |
